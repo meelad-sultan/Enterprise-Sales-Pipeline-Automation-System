@@ -680,6 +680,7 @@ Special thanks to:
 <img width="1024" height="1024" alt="20250821_0844_Interactive Workflow Diagram_simple_compose_01k35bjy0qf4r8ef6tampnxv4f" src="https://github.com/user-attachments/assets/61c66cf9-0ade-4d7b-9beb-1d84316e34d7" />
 <img width="1024" height="1536" alt="Lead Life Cycle" src="https://github.com/user-attachments/assets/d0fe9a66-9858-4e01-83f5-14ca95d7d29a" />
 <img width="1024" height="1536" alt="System Integration Diagram" src="https://github.com/user-attachments/assets/cab1f151-cc42-4cce-942e-068f3b1d5e18" />
+
 <img width="1024" height="1536" alt="20250820_1316_Comprehensive Integration Diagram_simple_compose_01k338nzcpf2qb59s9qr5p1mb5" src="https://github.com/user-attachments/assets/fbcd9089-4a44-4203-86fc56659dac140f"/>
 <img width="1024" height="1536" alt="Features and guideilnes" src="https://github.com/user-attachments/assets/830f39a3-1ac3-45df-929d-ff60851c0c1d" />
 
